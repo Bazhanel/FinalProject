@@ -10,5 +10,5 @@ script:
 - sonar-scanner
 addons:
   sonarcloud:
-    organization: final-project-group3
+    organization: bazhanel-github
     token: 6fe2c756e6e564790a4e82f78fc13824ee86f6d5
