@@ -11,12 +11,6 @@
     <name>energym3</name>
     <description>Spring Boot Project for Final Project</description>
 
-    <modules>
-        <module>backend</module>
-        <module>frontend</module>
-    </modules>
-
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
