@@ -11,6 +11,7 @@ script:
 - sonar-scanner
 before_script:
 - npm install --prefix frontend/
+
 addons:
   sonarcloud:
     organization: final-project-group3
